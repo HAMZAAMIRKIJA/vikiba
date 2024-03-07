@@ -1,0 +1,27 @@
+.icon {
+  height: 50px;
+  width: 55px;
+  align-items: center;
+  text-align: ;
+}
+
+.b {
+  outline: auto;
+  background-color: black;
+}
+.sizB {
+  width: 15%;
+  height: 100vh;
+  background-color: whitesmoke;
+
+}
+.k:hover
+{
+
+  
+    width: 99%;
+    cursor: pointer;
+}
+/* REGISTER FORM */
+
+/*  */
