@@ -16,7 +16,7 @@
 
 <!-- The Modal -->
 <div class="modal" id="my">
-  <div class="modal-dialog modal-dialog-scrollable">
+  <div class="modal-dialog modal-fullscreen-sm-down">
     <div class="modal-content">
 
       <!-- Modal Header -->

@@ -12,7 +12,7 @@ include("./header.php");
 
 <!-- The Modal -->
 <div class="modal" id="myModa">
-  <div class="modal-dialog">
+  <div class="modal-dialog modal-l">
     <div class="modal-content">
 
       <!-- Modal Header -->
@@ -419,6 +419,7 @@ include("./header.php");
             </div>
             </table>
         </div>
+        
     </div>
     <!-- <h1>hamza amiri kija</h1> -->
     <script>
